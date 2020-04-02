@@ -3,7 +3,7 @@
 ## How-to add Ideas
 - Fork
 - Add your idea to the list below
-- Use the (idea template)[IdeaTemplate.md] to add the relevant info
+- Use the [idea template](IdeaTemplate.md) to add the relevant info
 - Make a PR
   
 ## Logistics
