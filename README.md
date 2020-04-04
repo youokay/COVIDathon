@@ -8,8 +8,9 @@
   
 ## Logistics
 
-- **Kick-off April 4, 2020 2:30pm** <details> <summary>link incoming</summary> ... https://zoom.us/j/618209372 ... </details>
+- **Kick-off April 4, 2020 2:30pm** https://cutt.ly/wtACkjV
 - Form pairs, teams before kick-off or there will be a chance to get a team right after.
+- We meet again Sunday April 6, 2020 at 2:30pm in the same room to show off
 
 
 
