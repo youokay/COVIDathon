@@ -23,5 +23,6 @@
 - [Skill match](SkillsMatch.md)
 - [Tribute Site Generator](Tribute.md)
 - [IoT data mapper](CreepyThermo.md)
+- [Gas prices and infections](ThePumpAndTheVirus.md)
 
 ## Participants
